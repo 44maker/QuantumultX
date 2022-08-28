@@ -1,7 +1,7 @@
 # QuantumultX
-自用配置
-
-[44maker自用圈x配置](https://raw.fastgit.xyz/44maker/QuantumultX/main/44makerQuantumultX.conf)
+## ✨自用配置 
+[44maker自用圈x配置(已加速)](https://raw.fastgit.org/44maker/QuantumultX/main/44makerQuantumultX.conf)
+[未加速](https://raw.githubusercontent.com/44maker/QuantumultX/main/44makerQuantumultX.conf)
 ## 1️⃣大佬主页
 
 排名不分先后（仅作自己收藏用）
