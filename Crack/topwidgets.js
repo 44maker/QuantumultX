@@ -1,29 +1,12 @@
-/***********************************
-
-> 应用名称：TopWidgets
-> 下载地址：https://apps.apple.com/cn/app/id1527221228
-> 脚本功能：解锁永久VIP功能
-> 脚本作者：Cuttlefish
-> 微信账号：墨鱼手记
-> 更新时间：2022-10-30
-> 注意事项：先卸载TopWidgets，然后重新下载TopWidgets，挂载本脚本，打开TopWidgets，恢复购买即可
-> 通知频道：https://t.me/ddgksf2021
-> 投稿助手：https://t.me/ddgksf2013_bot
-> 问题反馈：📮 ddgksf2013@163.com 📮
-> 特别说明：⛔⛔⛔
-           本脚本仅供学习交流使用，禁止转载、售卖
-           ⛔⛔⛔
-            
+           
 [rewrite_local]
 
 # ～ TopWidgets☆永久VIP（2022-10-30）@ddgksf2013
-^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/topwidgets.js
+^https?:\/\/.*xiaozujian\.com\/api\/app\/config\/userConfig url script-response-body https://github.com/44maker/QuantumultX/raw/branch/master/Crack/topwidgets.js
 
 [mitm]
 
 hostname=*xiaozujian.com
-
-***********************************/
 
 
 
